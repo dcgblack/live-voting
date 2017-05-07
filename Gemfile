@@ -29,6 +29,7 @@ group :development, :test do
   gem 'pusher-fake'
   gem 'rails-perftest'
   gem 'ruby-prof'
+  gem 'cucumber'
 end
 
 group :development do
