@@ -27,6 +27,8 @@ group :development, :test do
   gem 'shoulda'
   gem 'guard-rspec'
   gem 'pusher-fake'
+  gem 'rails-perftest'
+  gem 'ruby-prof'
 end
 
 group :development do
